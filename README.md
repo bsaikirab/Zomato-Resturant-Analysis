@@ -1,17 +1,41 @@
-## 📊 Zomato Restaurant Data Dashboard
+Project Highlights
+Built 3 interactive dashboards analyzing Zomato restaurant data.
 
-This Power BI dashboard presents an analysis of Zomato's restaurant dataset across various countries and cities. It features key KPIs, booking patterns, cuisine trends, and historical data.
+Visualized key business metrics including:
 
-### 🧩 Features
-- Total Restaurants, Cities, Countries, and Votes
-- Average customer ratings
-- Top performing cities by restaurant count
-- Year-wise growth of restaurant listings
-- Online and table booking percentages
-- Top 5 most popular cuisines
-- Country-wise slicer for focused analysis
+Total restaurants, votes, countries, and cities.
 
-### 🛠️ Tools Used
-- Power BI
-- DAX
-- Zomato dataset
+Average rating and cost of two.
+
+Online and table booking percentages.
+
+Cuisine trends and restaurant growth.
+
+📊 Dashboards Included
+1. Global Overview Dashboard (Yellow Theme)
+Shows total stats with average ratings.
+
+Highlights top 5 cities and cuisines.
+
+Year-wise restaurant growth from 2010–2018.
+
+Online and table booking insights.
+
+2. Interactive Filter Dashboard (Green Theme)
+Filters for Country, Year, and Quarter.
+
+Dynamic visuals based on selection.
+
+Clickable navigation to a map view.
+
+Clean and user-friendly layout.
+
+3. Financial & Cost Analysis Dashboard (Red Theme)
+Financial quarter-wise restaurant openings.
+
+Buckets of restaurant costs in USD.
+
+Average cost for two per quarter.
+
+Rating category pie and top cuisines.
+
